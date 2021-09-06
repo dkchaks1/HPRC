@@ -1,4 +1,4 @@
-Template for the Read the Docs tutorials DKC
+Template for the Read the Docs tutorial
 =======================================
 
 This GitHub template includes fictional Python library
